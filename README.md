@@ -1,1 +1,1 @@
-# GDP-Analysis-with-NITI-Aayog
+# GDP Analysis with NITI-Aayog
